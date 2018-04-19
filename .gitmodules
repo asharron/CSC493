@@ -1,0 +1,3 @@
+[submodule "sharrona/BlogChain"]
+	path = sharrona/BlogChain
+	url = https://github.com/asharron/BlogChain.git
